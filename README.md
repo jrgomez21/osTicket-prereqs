@@ -1,12 +1,12 @@
 <p aligh="center">
-<img src="![osTicket Banner](https://github.com/jrgomez21/osTicket-prereqs/assets/173424242/6aaef271-73c1-45eb-9eca-8937d33c43b2)"/>
+<img src="![osTicket Banner](https://github.com/jrgomez21/osTicket-prereqs/assets/173424242/6aaef271-73c1-45eb-9eca-8937d33c43b2)" alt="osTIcket logo"/>
 </p>
 
 <h1> osTicket - Prerequisites and Installation </h1>
 
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.
 
-Note: I will using one machine to support multiple OS running at the same time.
+Note: I will using one device to support multiple VMs running at the same time.
 
 <h2> Environments and Technologies used </h2>
 
