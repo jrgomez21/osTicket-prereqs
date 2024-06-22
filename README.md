@@ -21,4 +21,9 @@ Note: I will using one device to support multiple VMs running at the same time.
 <h2> List of Prerequisites </h2>
 
 - Install Virt-Manager
-- Install 
+- Install Windows 10 ISO
+- Install all files for osTicket
+
+<h2> Installation Steps </h2>
+<h3> Step 1 </h3>
+- Install your Hypervisor
