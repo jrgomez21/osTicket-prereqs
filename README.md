@@ -17,6 +17,7 @@ Note: I will using one device to support multiple VMs running at the same time.
 <h2> Operating system used </h2>
 
 - Windows 10
+- Pop!_OS (22.04 LTS)
 
 <h2> List of Prerequisites </h2>
 
@@ -29,9 +30,8 @@ Note: I will using one device to support multiple VMs running at the same time.
 <h3> Step 1: Installing your Hypervisor </h3>
 
 In this tutorial, I will be showing you two ways on how to install Virt-Mananger in Pop!_OS (Ubuntu based Linux OS)
+
 - Using Pop!_OS proprietary App Management application
 - Using the terminal
    
-// insert image
-
-- Log into your linux system 
+<b> Log into your linux system </b>
