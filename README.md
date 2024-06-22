@@ -29,5 +29,8 @@ Note: I will using one device to support multiple VMs running at the same time.
 <h3> Step 1 </h3>
 
 - Installing your Hypervisor
+- In this tutorial, I will showing you two ways on how to install Virt-Mananger in Pop!_OS (Ubuntu based Linux OS)
+  - Using Pop!_OS proprietary App Management application
+  - Using the terminal 
 
   - Log into your linux system 
