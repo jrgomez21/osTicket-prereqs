@@ -34,4 +34,8 @@ In this tutorial, I will be showing you two ways on how to install Virt-Mananger
 - Using Pop!_OS proprietary App Management application
 - Using the terminal
    
-<b> Log into your linux system </b>
+<b> Make sure to update your Linux System </b>
+   - Open terminal
+   - Type in "sudo apt update && sudo apt upgrade"
+      - Type in root password if there is any
+   - 
