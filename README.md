@@ -41,3 +41,14 @@ In this tutorial, I will be showing you two ways on how to install Virt-Mananger
 <p>
    <img src="https://github.com/jrgomez21/osTicket-prereqs/assets/173424242/8cbc3750-3fce-4981-830a-715ed6f0feb5"
 </p>
+
+<b> Step 1-2: Open Pop!_Shop </b>
+   - Type in the search bar "Virt Machine Manager"
+<p>
+   <img src="https://github.com/jrgomez21/osTicket-prereqs/assets/173424242/6ec318ee-d0a4-4b7f-add7-9a37f17aefdc"
+</p>
+
+   - Click install
+<p> 
+   <img src="https://github.com/jrgomez21/osTicket-prereqs/assets/173424242/8f0f1eab-641f-473d-957a-74624f023ef1"
+</p>
