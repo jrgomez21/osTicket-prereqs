@@ -26,8 +26,8 @@ Note: I will using one device to support multiple VMs running at the same time.
 - Install all files for osTicket
 
 <h2> Installation Steps: </h2>
-<b> - Here is breakdown of the installation steps were going to do today! </b>
 
+<b> Here is breakdown of the installation steps were going to do today! </b>
       - Step 1: Installing the Hypervisor
       - Step 2: Installing the Windows Environment for the osTicket
       
