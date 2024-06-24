@@ -39,7 +39,7 @@ In this tutorial, I will be showing you two ways on how to install Virt-Mananger
    - Type in "sudo apt update && sudo apt upgrade"
       - Type in root password if there is any
 <p>
-   <img src="https://github.com/jrgomez21/osTicket-prereqs/assets/173424242/8cbc3750-3fce-4981-830a-715ed6f0feb5](https://github.com/jrgomez21/osTicket-prereqs/assets/173424242/18f292ab-5d81-4adf-ab49-02632d353d01"
+   <img src="https://github.com/jrgomez21/osTicket-prereqs/assets/173424242/18f292ab-5d81-4adf-ab49-02632d353d01"
 </p>
 
 <b> Open Pop!_Shop </b>
