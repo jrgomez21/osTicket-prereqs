@@ -57,5 +57,5 @@ In this tutorial, I will be showing you two ways on how to install Virt-Mananger
 - After installation open the application
 
 <p> 
-   <img src="https://github.com/jrgomez21/osTicket-prereqs/assets/173424242/8ad5978a-711e-4007-813b-0e155fd616d8"
+   <img src="https://github.com/jrgomez21/osTicket-prereqs/assets/173424242/2601c61c-fd43-42e9-ae1c-8731a090f3e8"
 </p>
