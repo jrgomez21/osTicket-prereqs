@@ -50,12 +50,12 @@ In this tutorial, I will be showing you two ways on how to install Virt-Mananger
 
    - Click install
 <p> 
-   <img src="https://github.com/jrgomez21/osTicket-prereqs/assets/173424242/8f0f1eab-641f-473d-957a-74624f023ef1"
+   <img src="https://github.com/jrgomez21/osTicket-prereqs/assets/173424242/2601c61c-fd43-42e9-ae1c-8731a090f3e8"
 </p>
    
 - Type in root password again to install Virt Machine Manager
 - After installation open the application
 
 <p> 
-   <img src="https://github.com/jrgomez21/osTicket-prereqs/assets/173424242/2601c61c-fd43-42e9-ae1c-8731a090f3e8"
+   <img src=""
 </p>
